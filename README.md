@@ -1,5 +1,7 @@
 # Lógica de programação: explore funções e listas
 
+# [Clique Aqui para Jogar](https://guess-the-number-kappa-sooty.vercel.app/)
+
 ## Interagindo com HTML
 
 Carregamos o projeto com o HTML e o CSS para criar a estrutura e o estilo da página que utilizaremos durante o curso;
